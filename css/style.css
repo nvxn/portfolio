@@ -50,7 +50,7 @@ span,
   main, header, footer {
     max-width: 100%;
     width: 95%;
-    padding: 1.5rem 1rem;
+    /* padding: 1.5rem 1rem; */
   }
 }
 
@@ -158,7 +158,6 @@ span,
 
 .contact-list a:hover {
   color: #0055ff;
-  /* border-color: #0055ff; */
 }
 
 .contact-list i {
